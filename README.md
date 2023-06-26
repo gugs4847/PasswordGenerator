@@ -2,9 +2,6 @@
 
 Demo found [here](https://codepen.io/gugs4847/pen/NWOZdGe)
 
-Idea from [here](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Password-Generator.md)
-
-Tier: 2-Intermediate
 
 Generate passwords based on certain characteristics selected by the user.
 # User Stories
